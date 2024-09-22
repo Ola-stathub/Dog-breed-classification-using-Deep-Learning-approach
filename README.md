@@ -39,4 +39,4 @@ python app.py
 ```
 To clone this repository:
 ```
-git clone [https://github.com/Bawamary/My-Final-Project.git](https://github.com/Ola-stathub/Dog-breed-classification-using-Deep-Learning-approach.git
+git clone https://github.com/Ola-stathub/Dog-breed-classification-using-Deep-Learning-approach.git
