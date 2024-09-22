@@ -28,11 +28,12 @@ To run the project locally, follow these steps:
 ```
 !git clone https://github.com/ultralytics/yolov5.git
 ```
+- Install dependencies
 ```
 cd yolov5
-- pip install -r requirements.txt
-- Replace the directory of yolov5.pt in app.py
+pip install -r requirements.txt
 ```
+- Replace the directory of yolov5.pt in app.py
 - Run the `app.py` to launch the deployment server
 ```
 python app.py
@@ -40,3 +41,7 @@ python app.py
 To clone this repository:
 ```
 git clone https://github.com/Ola-stathub/Dog-breed-classification-using-Deep-Learning-approach.git
+```
+# - Oladele Bidemi Ajayi
+### - ajayioladeleb@gmail.com
+
