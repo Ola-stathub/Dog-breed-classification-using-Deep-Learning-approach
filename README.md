@@ -42,6 +42,6 @@ To clone this repository:
 ```
 git clone https://github.com/Ola-stathub/Dog-breed-classification-using-Deep-Learning-approach.git
 ```
-# - Oladele Bidemi Ajayi
-### - ajayioladeleb@gmail.com
+- # Oladele Bidemi Ajayi
+- ### ajayioladeleb@gmail.com
 
