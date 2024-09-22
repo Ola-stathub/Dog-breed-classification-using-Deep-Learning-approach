@@ -12,21 +12,21 @@ The notebook documents the entire process of training the YOLOv5 object detectio
 This folder contains the code for the web application built using Flask. The application allows users to upload an image, and the model will predict and display the breed of the dog in the image.
 The folder structure is as follows:
 
-`app.py`: The main Flask application file that handles routing and prediction logic.
-`templates/`: Contains HTML templates for the web pages.
-`index.html`: The homepage where users can upload an image for classification.
-`result.html`: The results page that displays the predicted dog breed after image processing.
-`static/`: Contains static assets like CSS and JavaScript if needed.
-`yolov5/`: This folder contains the YOLOv5 configuration files and related resources required for inference.
+- `app.py`: The main Flask application file that handles routing and prediction logic.
+- `templates/`: Contains HTML templates for the web pages.
+- `index.html`: The homepage where users can upload an image for classification.
+- `result.html`: The results page that displays the predicted dog breed after image processing.
+- `static/`: Contains static assets like CSS and JavaScript if needed.
+- `yolov5/`: This folder contains the YOLOv5 configuration files and related resources required for inference.
 
-How to Run the Project
+### How to Run the Project
 To run the project locally, follow these steps:
 
 - Open the Myproject folder on vscode or other IDE
 - Replace the directory of `mymodel.pt` in `app.py`
 - Clone the YOLOv5 pre-trained model repository
 ```
-!git clone https://github.com/ultralytics/yolov5.git```
+!git clone https://github.com/ultralytics/yolov5.git
 ```
 ```
 cd yolov5
